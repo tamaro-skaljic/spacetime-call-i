@@ -1,5 +1,7 @@
 # spacetime-call-i
 
+> [SpacetimeDB 2.0's spacetime.json](https://github.com/clockworklabs/SpacetimeDB/releases#:~:text=spacetime.json%20configuration) now allows you to declaratively configure the database. [`spacetime call`](https://spacetimedb.com/docs/cli-reference/#spacetime-call) uses the configuration by default and `spacetime-call-i` is feature-complete, therefor there will be no new releases and the repository is archived.
+
 The `spacetime-call-i` utility is a tool that allows you to make `spacetime call`s without having to enter the server and database each time.
 
 ## Usage
